@@ -1,6 +1,15 @@
 # Goal
 The objective of these Power BI reports is to provide actionable insights into credit card customer behavior and transaction patterns. These dashboards are designed to help financial institutions make informed decisions about customer segmentation, spending habits, and overall business performance.
 
+# 🖥️ Screenshots
+
+### Homepage
+![Homepage Screenshot](Screenshot/cc_customer_report.png)
+
+### Result Page
+![Result Page Screenshot](Screenshot/cc_transaction_report.png)
+
+
 # Objectives
 1. Analyze Revenue Trends:
 * Visualize revenue by different segments such as income group, expenditure type, age group, and education level.

@@ -3,10 +3,10 @@ The objective of these Power BI reports is to provide actionable insights into c
 
 # 🖥️ Screenshots
 
-### Homepage
+### Customer Report Dashboard
 ![Homepage Screenshot](Screenshot/cc_customer_report.png)
 
-### Result Page
+### Transactio Report Dashboard
 ![Result Page Screenshot](Screenshot/cc_transaction_report.png)
 
 

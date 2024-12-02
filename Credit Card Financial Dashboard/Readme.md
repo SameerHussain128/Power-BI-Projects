@@ -6,7 +6,7 @@ The objective of these Power BI reports is to provide actionable insights into c
 ### Customer Report Dashboard
 ![Homepage Screenshot](Screenshot/cc_customer_report.png)
 
-### Transactio Report Dashboard
+### Transaction Report Dashboard
 ![Result Page Screenshot](Screenshot/cc_transaction_report.png)
 
 

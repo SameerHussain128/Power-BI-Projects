@@ -3,7 +3,7 @@
 The HR Analytics Dashboard aims to provide a comprehensive analysis of human resource data to help organizations make data-driven decisions. The dashboard offers insights into employee demographics, performance, attrition rates, and other key HR metrics.
 
 ### HR Analytics Dashboard
-![Homepage Screenshot](Screenshot/HR ANALYTICS DASHBOARD IMAGE.png)
+![Homepage Screenshot](Screenshot/HR_ANALYTICS_DASHBOARD.png)
 
 # Objective
 
